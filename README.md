@@ -1,1 +1,2 @@
 # Automate-updating-catalog-info
+This is a sample project built on automating product updates on a webserver when supplier sends products. It takes the images of the products, formats them to show on store, adds description of the product along with the images recieved from the supplier. Furthermore it generates and sends a report in a pdf format via email as to confirm which products have been uploaded in the store, to the supplier. It also performs a periodic check on the server to monitor its health and alert us via email if anything happens
